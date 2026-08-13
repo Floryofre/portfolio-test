@@ -1,0 +1,1 @@
+Esta carpeta se genera automaticamente con npm run build. Vercel la crea al deployar. El HTML funcional de referencia es preview-original.
